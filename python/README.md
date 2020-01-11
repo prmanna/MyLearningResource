@@ -9,17 +9,17 @@ Python tutorials:
 * https://overiq.com/python-101/
  
 Experimenting with Python:
-    http://pythontutor.com/
-    https://repl.it/languages/Python3
-    https://jupyter.org/try
-    https://colab.research.google.com/  [requires google drive account]
-    http://codepad.org/
-    https://www.python.org/shell
+* http://pythontutor.com/
+* https://repl.it/languages/Python3
+* https://jupyter.org/try
+* https://colab.research.google.com/  [requires google drive account]
+* http://codepad.org/
+* https://www.python.org/shell
  
 Blogs and Articles:
-    http://simeonfranklin.com/blog/  [Generators, Decorators]
-    https://jeffknupp.com/
-    http://www.laurentluce.com/
+* http://simeonfranklin.com/blog/  [Generators, Decorators]
+* https://jeffknupp.com/
+* http://www.laurentluce.com/
    
 Books (paid):
     https://www.jeffknupp.com/writing-idiomatic-python-ebook/
