@@ -31,7 +31,6 @@ YouTube:
 * Raymond Hettinger's talks and videos
 * https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA
 * https://py.checkio.org/blog/5-best-speeches-mr-raymond-hettinger/
-    
 * David Beazley's talks and videos
 * https://www.youtube.com/user/dabeazllc/videos
  
