@@ -22,25 +22,25 @@ Blogs and Articles:
 * http://www.laurentluce.com/
    
 Books (paid):
-    https://www.jeffknupp.com/writing-idiomatic-python-ebook/
-    https://dbader.org/products/python-tricks-book/
-    http://www.dabeaz.com/per.html
-    http://www.dabeaz.com/cookbook.html
+*     https://www.jeffknupp.com/writing-idiomatic-python-ebook/
+*     https://dbader.org/products/python-tricks-book/
+*     http://www.dabeaz.com/per.html
+*     http://www.dabeaz.com/cookbook.html
  
 YouTube:
-    Raymond Hettinger's talks and videos
-    https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA
-    https://py.checkio.org/blog/5-best-speeches-mr-raymond-hettinger/
+*     Raymond Hettinger's talks and videos
+*     https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA
+*     https://py.checkio.org/blog/5-best-speeches-mr-raymond-hettinger/
     
-    David Beazley's talks and videos
-    https://www.youtube.com/user/dabeazllc/videos
+*     David Beazley's talks and videos
+*     https://www.youtube.com/user/dabeazllc/videos
  
 People to follow:
-    Raymond Hettinger (twitter: @raymondh)
-    David Beazley (twitter: @dabeaz)
-    Dan Bader (twitter: @dbader_org)
-    Guido Van Rossum (twitter: @gvanrossum)
+*     Raymond Hettinger (twitter: @raymondh)
+*     David Beazley (twitter: @dabeaz)
+*     Dan Bader (twitter: @dbader_org)
+*     Guido Van Rossum (twitter: @gvanrossum)
  
 Python libraries/frameworks:
-    https://awesome-python.com/
-    http://pymotw.com/
+*     https://awesome-python.com/
+*     http://pymotw.com/
