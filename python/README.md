@@ -1,7 +1,7 @@
 Python tutorials:
     [https://docs.python.org/3/](https://docs.python.org/3/)
-    https://realpython.com/
-    https://www.diveinto.org/python3/
+    [https://realpython.com/] (https://realpython.com/)
+    [https://www.diveinto.org/python3/](https://www.diveinto.org/python3/)
     https://docs.python-guide.org/
     https://python.swaroopch.com/
     https://greenteapress.com/wp/think-python/
